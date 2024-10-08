@@ -1,0 +1,24 @@
+Pergunta 3:
+
+O valor da variável SOMA ao final do processamento será 77.
+
+O código inicializa o INDICE como 12, a SOMA como 0 e K como 1
+Em seguida um loop é executado enquanto K for menor que 12
+A cada iteração K é adicionado + 1 e seu valor é adicionado a SOMA
+O loop termina quando K atinge 12
+
+
+
+Pergunta 4:
+
+Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, 9
+b) 2, 4, 8, 16, 32, 64, 128
+c) 0, 1, 4, 9, 16, 25, 36, 49
+d) 4, 16, 36, 64, ____ (??)
+e) 1, 1, 2, 3, 5, 8, 13
+f) 2,10, 12, 16, 17, 18, 19, 20
+
+Pergunta 5:
+
+Acendo uma lampada e deixo ela ligada por um tempo, após um tempo apago esse interruptor e ligo outro e depois me dirigo ate uma das salas, se a lamapda estiver apagada e quente quer dizer que ela pertence ao primeiro interruptor apertado, se estiver apagada e fria pertence ao terceiro interruptor e se estiver acessa pertence ao segundo interruptor
