@@ -21,4 +21,4 @@ f) 2,10, 12, 16, 17, 18, 19, 20
 
 Pergunta 5:
 
-Acendo uma lampada e deixo ela ligada por um tempo, após um tempo apago esse interruptor e ligo outro e depois me dirigo ate uma das salas, se a lamapda estiver apagada e quente quer dizer que ela pertence ao primeiro interruptor apertado, se estiver apagada e fria pertence ao terceiro interruptor e se estiver acessa pertence ao segundo interruptor
+Acendo a primeira lampada e deixo ela ligada por um tempo, após um tempo apago esse interruptor e ligo o segundo e depois me dirigo ate uma das salas, se a lamapda estiver apagada e quente quer dizer que ela pertence ao primeiro interruptor apertado, se estiver apagada e fria pertence ao terceiro interruptor e se estiver acessa pertence ao segundo interruptor
